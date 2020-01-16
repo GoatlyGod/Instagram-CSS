@@ -1,20 +1,58 @@
 body {
     background-color: gray;
+    margin: 0;
 }
 .top {
     background-color: white;
+    margin-bottom: 20px;
 }
 .inner {
     width: 50%;
     margin: auto;
     height: 120px;
     padding-top: 20px; 
+    position: relative;
+    right: -21px;
+    top: -16px;
 }
+
 .Parent-box {
-    background-color: antiquewhite;
-}
-.kid1 {
-    width: 50%;
+    width: 85%;
     margin: auto;
-    height: 120px;
+    height: 1300px;
+}
+.Kid1 {
+    width: 70%;
+    margin: auto;
+    height: 1300px;
+
+}
+.Comment1 {
+    background-color: whitesmoke;
+    width: 100%;
+    margin-top: -4px;
+    padding-top: 10px;
+}
+.Comment2 {
+    background-color: whitesmoke;
+    margin-top: -4px;
+    padding-top: 10px;
+}
+.Comment3 {
+    background-Color: whitesmoke;
+    margin-top: -4px;
+    padding-top: 10px;
+}
+h3 {
+    background-color: whitesmoke;
+    margin-bottom: initial;
+}
+h3 {
+    background-color: whitesmoke;
+    margin-bottom: initial;
+}
+h3 {
+    background-color: whitesmoke;
+    margin-bottom: initial;
+    width: 100%;
 }
